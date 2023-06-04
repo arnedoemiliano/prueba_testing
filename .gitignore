@@ -149,7 +149,7 @@ $RECYCLE.BIN/
 *.lnk
 
 /.vscode
-/build
+
 /templates
 
 # End of https://www.toptal.com/developers/gitignore/api/c,windows,linux,visualstudiocode,macos

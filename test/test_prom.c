@@ -1,6 +1,6 @@
 #include <unity.h>
 #include <prom.h>
-#include "Mocksuma.h"
+#include "mock_suma.h"
 
 int auxiliar_suma(int a, int b) {
     return a + b;
